@@ -1,0 +1,94 @@
+{
+  "matriucula": [
+    {
+      "name": "luiz",
+      "genero": "neutre",
+      "idade": "18",
+      "peso": "75Kg",
+      "id": 1
+    },
+    {
+      "name": "Maria",
+      "genero": "Feminino",
+      "idade": "23",
+      "peso": "85Kg",
+      "id": 2
+    },
+    {
+      "name": "Thais Carla",
+      "genero": "Feminino",
+      "idade": "28",
+      "peso": "364Kg",
+      "id": 3
+    },
+    {
+      "name": "Thiago",
+      "genero": "Masculino",
+      "idade": "30",
+      "peso": "93Kg",
+      "id": 4
+    }
+  ],
+  "planos": [
+    {
+      "valor": "R$50,00",
+      "atividade": "Musculação",
+      "personal": "Calos",
+      "status": "n/a",
+      "id": 1
+    },
+    {
+      "valor": "R$80,00",
+      "atividade": "Musculação + Sauna",
+      "personal": "Luisa",
+      "status": "n/a",
+      "id": 2
+    },
+    {
+      "valor": "R$100,00",
+      "atividade": "Musculação + Sauna + Kickboxing",
+      "personal": "Bruna",
+      "status": "Vip",
+      "id": 3
+    },
+    {
+      "valor": "R$150,00",
+      "atividade": "Musculação + Sauna + Kickboxing + Natação",
+      "personal": "José",
+      "status": "Vip",
+      "id": 4
+    }
+  ],
+  "aparelhos": [
+    {
+      "aparelhos": "Leg Press",
+      "peso": "500Kg",
+      "tempo": "10m",
+      "usuarios": "3",
+      "id": 1
+    },
+    {
+      "aparelhos": "Supino",
+      "peso": "400Kg",
+      "tempo": "15m",
+      "usuarios": "3",
+      "id": 2
+    },
+    {
+      "aparelhos": "Polia",
+      "peso": "100Kg",
+      "tempo": "10m",
+      "usuarios": "2",
+      "id": 3
+    },
+    {
+      "aparelhos": "Halteres",
+      "peso": "60Kg",
+      "tempo": "20m",
+      "usuarios": "6",
+      "id": 4
+    }
+]
+}
+
+
